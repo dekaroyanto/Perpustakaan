@@ -26,7 +26,7 @@ public class LoginActivity extends AppCompatActivity {
     TextView textInputLayoutPassword;
     TextView textViewCreateAccount;
 
-    Button buttonLogin;
+    TextView buttonLogin;
 
     DBHelper dbHelper;
 
